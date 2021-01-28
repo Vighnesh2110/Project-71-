@@ -103,3 +103,8 @@ body {
 .modal-body {
     text-align: center;
 }
+
+#schoolimage{
+    height: 50px;
+    width: 50px;
+}
